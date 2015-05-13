@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2443DC5118D662CA00C920C1"
-               BuildableName = "m2048.app"
-               BlueprintName = "m2048"
+               BuildableName = "m2049.app"
+               BlueprintName = "m2049"
                ReferencedContainer = "container:m2048.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -57,8 +57,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2443DC5118D662CA00C920C1"
-            BuildableName = "m2048.app"
-            BlueprintName = "m2048"
+            BuildableName = "m2049.app"
+            BlueprintName = "m2049"
             ReferencedContainer = "container:m2048.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,8 +77,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2443DC5118D662CA00C920C1"
-            BuildableName = "m2048.app"
-            BlueprintName = "m2048"
+            BuildableName = "m2049.app"
+            BlueprintName = "m2049"
             ReferencedContainer = "container:m2048.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -96,8 +96,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2443DC5118D662CA00C920C1"
-            BuildableName = "m2048.app"
-            BlueprintName = "m2048"
+            BuildableName = "m2049.app"
+            BlueprintName = "m2049"
             ReferencedContainer = "container:m2048.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
