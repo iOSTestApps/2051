@@ -1,11 +1,7 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '6.0'
 
-target 'm2048' do
-
-end
-
-target 'm2048Tests' do
+target 'm2049' do
 
 end
 
